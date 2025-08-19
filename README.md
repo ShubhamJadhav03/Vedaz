@@ -77,10 +77,11 @@ Your default web browser should automatically open a new tab with the AI Astrolo
 
 📂 Project Structure
 
-.
+
 ├── app.py              # The main Streamlit application script
 
 ├── requirements.txt      # Python dependencies
 
 └── README.md           # This file
+
 
