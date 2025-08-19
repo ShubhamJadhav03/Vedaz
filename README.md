@@ -76,7 +76,11 @@ python -m streamlit run app.py
 Your default web browser should automatically open a new tab with the AI Astrologer application ready to use.
 
 📂 Project Structure
+
 .
 ├── app.py              # The main Streamlit application script
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md           # This file
+
