@@ -39,8 +39,7 @@ Follow these steps to get the application running on your local machine.
 1. Clone the Repository
 First, clone this repository to your local machine (or simply download the source code files).
 
-# Replace with your actual repository URL if you create one
-git clone https://github.com/your-username/ai-astrologer.git
+git clone https://github.com/ShubhamJadhav03/Vedaz.git
 cd ai-astrologer
 
 2. Install Python Dependencies
@@ -83,5 +82,6 @@ Your default web browser should automatically open a new tab with the AI Astrolo
 ├── requirements.txt      # Python dependencies
 
 └── README.md           # This file
+
 
 
